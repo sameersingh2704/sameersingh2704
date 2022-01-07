@@ -37,6 +37,7 @@
 ![sql](https://img.shields.io/badge/SQL-28B6F6?style=for-the-badge&logo=sql&logoColor=white) ![hive](https://img.shields.io/badge/HIVE-3776AB?style=for-the-badge&logo=hive&logoColor=white) ![object-box](https://img.shields.io/badge/OBJECTBOX-323330?style=for-the-badge&logo=objectbox&logoColor=F7DF1E)
 
 **Others**
+
 ![firebase](https://img.shields.io/badge/FIREBASE-28B6F6?style=for-the-badge&logo=firebase&logoColor=white) ![dialogflow](https://img.shields.io/badge/DIALOGFLOW-3776AB?style=for-the-badge&logo=dialogflow&logoColor=white) ![git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=F7DF1E) ![bash-terminal](https://img.shields.io/badge/BASH-28B6F6?style=for-the-badge&logo=bash&logoColor=white) ![jenkins](https://img.shields.io/badge/JENKINS-3776AB?style=for-the-badge&logo=jenkins&logoColor=white) ![jira](https://img.shields.io/badge/JIRA-323330?style=for-the-badge&logo=jira&logoColor=F7DF1E) ![draw.io](https://img.shields.io/badge/DRAW-28B6F6?style=for-the-badge&logo=draw&logoColor=white)
 
 | <a href="https://github.com/sameersingh2704/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameersingh2704&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sameer's github stats" /></a> | <a href="https://github.com/sameersingh2704/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameersingh2704&layout=compact&theme=buefy&hide_border=true" /></a> |
