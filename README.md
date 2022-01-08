@@ -13,7 +13,7 @@
 - 💼 FrontEnd Engineer at [Unthinkable Solutions](https://www.unthinkable.co/)
 - 💻 I love to code and solve problems
 - 📱 I'm a fan of cross-platform app development using Flutter
-- ❤️ I love to automate things
+- ❤️ I love to automate my work
 - 💬 Find me on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](github.com/sameersingh2704) & [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/sameersingh2704)
 
 ## Technical Skills 
