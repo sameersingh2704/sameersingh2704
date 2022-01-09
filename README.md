@@ -10,7 +10,7 @@
 
 ## About me
 
-- 💼 FrontEnd Engineer at [Unthinkable Solutions](https://www.unthinkable.co/)
+- 💼 Software Developer at [Unthinkable Solutions](https://www.unthinkable.co/)
 - 💻 I love to code and solve problems
 - 📱 I'm a fan of cross-platform app development using Flutter
 - ❤️ I love to automate my work
