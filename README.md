@@ -2,48 +2,45 @@
 
 <img src="https://raw.githubusercontent.com/kevmoo/dart_side/master/Dash%20Dart%20PNG%20%20-%20white.png" alt="Dart Side">
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/f110f1c085d6afab0bcc0bfcba3ddf1a81113247138ba53b8f26d574805bb502/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f"/>
-</p>
-
 
 
 ## About me
 
-- 💼 Software Developer at [Unthinkable Solutions](https://www.unthinkable.co/)
+- 💼 Software Developer at [Waya Financial Technologies](https://thewaya.com/)
 - 💻 I love to code and solve problems
 - 📱 I'm a fan of cross-platform app development using Flutter
 - ❤️ I love to automate my work
 - 💬 Find me on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://www.github.com/sameersingh2704) & [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sameersingh2704)
 
-## Technical Skills 
-**Languages**
+# 💫 About Me:
+Highly motivated and results-driven Flutter Developer with over six years of experience in designing and developing mobile applications. Experienced in cross-platform development, object-oriented programming, and debugging. Possess excellent problem-solving skills, with a keen eye for detail and a passion for delivering high-quality products. Excellent communication and interpersonal skills, with the ability to work both independently and in a team setting. Seeking to leverage proven skills and experience to take on a challenging role and contribute to the success of the company.
 
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
 
-**Frameworks**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsam2704) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameersingh2704) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameersingh2704@gmail.com) 
 
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white) ![flame](https://img.shields.io/badge/Flame-3776AB?style=for-the-badge&logo=flame&logoColor=white) ![selenium](https://img.shields.io/badge/Selenium-323330?style=for-the-badge&logo=selenium&logoColor=F7DF1E)
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sameersingh2704&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sameersingh2704&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sameersingh2704&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**Cloud**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sameersingh2704&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-![gcp](https://img.shields.io/badge/GCP-28B6F6?style=for-the-badge&logo=dart&logoColor=white) ![aws](https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-**Scripting**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sameersingh2704&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![shell](https://img.shields.io/badge/SHELL-28B6F6?style=for-the-badge&logo=shell&logoColor=white) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=sameersingh2704&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Databases**
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sameer2707) 
 
-![sql](https://img.shields.io/badge/SQL-28B6F6?style=for-the-badge&logo=sql&logoColor=white) ![hive](https://img.shields.io/badge/HIVE-3776AB?style=for-the-badge&logo=hive&logoColor=white) ![object-box](https://img.shields.io/badge/OBJECTBOX-323330?style=for-the-badge&logo=objectbox&logoColor=F7DF1E)
-
-**Others**
-
-![firebase](https://img.shields.io/badge/FIREBASE-28B6F6?style=for-the-badge&logo=firebase&logoColor=white) ![dialogflow](https://img.shields.io/badge/DIALOGFLOW-3776AB?style=for-the-badge&logo=dialogflow&logoColor=white) ![git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=F7DF1E) ![bash-terminal](https://img.shields.io/badge/BASH-28B6F6?style=for-the-badge&logo=bash&logoColor=white) ![jenkins](https://img.shields.io/badge/JENKINS-3776AB?style=for-the-badge&logo=jenkins&logoColor=white) ![jira](https://img.shields.io/badge/JIRA-323330?style=for-the-badge&logo=jira&logoColor=F7DF1E) ![draw.io](https://img.shields.io/badge/DRAW-28B6F6?style=for-the-badge&logo=draw&logoColor=white)
-
-| <a href="https://github.com/sameersingh2704/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameersingh2704&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sameer's github stats" /></a> | <a href="https://github.com/sameersingh2704/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameersingh2704&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
- <center><b>Visitor count<b><br>
-  <img src="https://profile-counter.glitch.me/sameersingh2704/count.svg" />
-  </center>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
