@@ -4,7 +4,7 @@
 
 
 
-## About me
+# 💫 About Me:
 
 - 💼 Software Developer at [Waya Financial Technologies](https://thewaya.com/)
 - 💻 I love to code and solve problems
@@ -12,7 +12,6 @@
 - ❤️ I love to automate my work
 - 💬 Find me on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://www.github.com/sameersingh2704) & [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sameersingh2704)
 
-# 💫 About Me:
 Highly motivated and results-driven Flutter Developer with over six years of experience in designing and developing mobile applications. Experienced in cross-platform development, object-oriented programming, and debugging. Possess excellent problem-solving skills, with a keen eye for detail and a passion for delivering high-quality products. Excellent communication and interpersonal skills, with the ability to work both independently and in a team setting. Seeking to leverage proven skills and experience to take on a challenging role and contribute to the success of the company.
 
 
