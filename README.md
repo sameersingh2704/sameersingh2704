@@ -1,4 +1,4 @@
-# <p align="center">🚀 Sameer Singh</p>
+# <p align="center">Sameer Singh</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%7C+Automation+Engineer;Building+Scalable+Trading+Systems;Fintech+%2B+AI+%2B+Automation;Turning+Ideas+into+Systems" />
